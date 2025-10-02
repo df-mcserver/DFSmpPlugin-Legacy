@@ -10,7 +10,7 @@ The code provided is for Season 2, as the code base was adapted from Season 1 (a
 ## Dependencies
 - [SpigotMC](https://www.spigotmc.org/) (1.21.3+)
     - Unsure if PaperMC would work anymore
-- [UltimateAdvancementAPI](https://www.spigotmc.org/resources/ultimateadvancementapi-1-15-1-21-8.95585/)
+- [UltimateAdvancementAPI](https://www.spigotmc.org/resources/ultimateadvancementapi-1-15-1-21-8.95585/) (2.4.2)
     - Used for making custom advancements
     - UltimateAdvancementAPI plugin must also be present in order for this plugin to work.
 - DFJavaResources-Legacy
