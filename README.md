@@ -1,16 +1,19 @@
-# DFSmpPlugin
-An SMP plugin tailored for my server, containing custom content.  
-Requires a texture pack for the full experience.
+# DFSmpPlugin-Legacy
+A repository archiving the original [SpigotMC](https://www.spigotmc.org/) (1.21.3) plugin used for Season 1 and Season 2.  
+The code provided is for Season 2, as the code base was adapted from Season 1 (and I've lost the Season 1 source code since)
 
-> [!NOTE]
-> This is not a well-made plugin.  
-> It is held together with duct-tape and prayers - and that isn't a joke.  
-> This is mainly due to deadlines, me being lazy and the codebase growing far too big for me to manage properly  
-> I don't think i'm lying when I say this is probably the biggest project i've made yet.  
+> [!WARNING]
+> Do not expect this code to work. It is outdated and not well written.  
+> If you want to try this plugin, download the jar file from the latest release.  
+> Again, do not expect this plugin to work. I will not help you try to use this plugin, the code is provided as-is.
 
-You can see the texture pack used for this in:
-- DFJavaResources
-    - Resource pack implementation for Java Edition
-- DFBedrockResources
-    - Resource pack implementation for Bedrock Edition (through GeyserMC)
-    - Using custom Geyser mappings (dfsmpitems.json)
+## Dependencies
+- [SpigotMC](https://www.spigotmc.org/) (1.21.3+)
+    - Unsure if PaperMC would work anymore
+- [UltimateAdvancementAPI](https://www.spigotmc.org/resources/ultimateadvancementapi-1-15-1-21-8.95585/)
+    - Used for making custom advancements
+- DFJavaResources-Legacy
+    - Relies on an older version of this resource pack
+    - Bedrock equivalent (DFBedrockResources-Legacy) if you want to use geyser.
+
+[See original README.md](./README-old.md) here
