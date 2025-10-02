@@ -13,8 +13,8 @@ The code provided is for Season 2, as the code base was adapted from Season 1 (a
 - [UltimateAdvancementAPI](https://www.spigotmc.org/resources/ultimateadvancementapi-1-15-1-21-8.95585/) (2.4.2)
     - Used for making custom advancements
     - UltimateAdvancementAPI plugin must also be present in order for this plugin to work.
-- DFJavaResources-Legacy
+- [DFJavaResources-Legacy](https://github.com/df-mcserver/DFJavaResources-Legacy)
     - Relies on an older version of this resource pack
-    - Bedrock equivalent (DFBedrockResources-Legacy) if you want to use geyser.
+    - Bedrock equivalent ([DFBedrockResources-Legacy](https://github.com/df-mcserver/DFBedrockResources-Legacy)) if you want to use [GeyserMC](https://geysermc.org/).
 
 [See original README.md](./README-old.md) here
